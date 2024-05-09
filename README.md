@@ -1,14 +1,22 @@
 # Frontend Mentor Challenges
 
 🔳 [HTML & CSS - *Newbie*](#html--css---newbie)
-  + [Recipe page](#recipe-page-fire) 🔥
+  + [3 column preview card](#3-column-preview-card-fire) 🔥
+  + [Recipe page](#recipe-page)
   + [Social links profile](#social-links-profile)
   + [Blog preview card](#blog-preview-card)
   + [QR code component](#qr-code-component)
 
 ## ***HTML & CSS - Newbie***
 
-### Recipe page :fire:
+### 3 column preview card :fire:
+
+| [Repository](https://github.com/mendezpvi/fm-3-column-preview-card) | [Live Site](https://mendezpvi.github.io/fm-3-column-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-using-css-grid-HEmrg94zdp) |
+| --- | --- | --- |
+
+![3 column preview card](https://raw.githubusercontent.com/mendezpvi/fm-3-column-preview-card/main/assets/vid/sample.gif)
+
+### Recipe page
 
 | [Repository](https://github.com/mendezpvi/fm-recipe-page) | [Live Site](https://mendezpvi.github.io/fm-recipe-page/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-TycMeFxXvK) |
 | --- | --- | --- |
