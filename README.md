@@ -1,7 +1,8 @@
 # Frontend Mentor Challenges
 
 🔳 [HTML & CSS - *Newbie*](#html--css---newbie)
-  + [3 column preview card](#3-column-preview-card-fire) 🔥
+  + [Single price grid](#single-price-grid-fire) 🔥
+  + [3 column preview card](#3-column-preview-card)
   + [Recipe page](#recipe-page)
   + [Social links profile](#social-links-profile)
   + [Blog preview card](#blog-preview-card)
@@ -9,7 +10,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### 3 column preview card :fire:
+### Single price grid :fire:
+
+| [Repository](https://github.com/mendezpvi/fm-single-price-grid) | [Live Site](https://mendezpvi.github.io/fm-single-price-grid/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-using-grid-LPmBtoGdE7) |
+| --- | --- | --- |
+
+![Single price grid](https://raw.githubusercontent.com/mendezpvi/fm-single-price-grid/main/assets/video/sample.gif)
+
+### 3 column preview card
 
 | [Repository](https://github.com/mendezpvi/fm-3-column-preview-card) | [Live Site](https://mendezpvi.github.io/fm-3-column-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-using-css-grid-HEmrg94zdp) |
 | --- | --- | --- |
