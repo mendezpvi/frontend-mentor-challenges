@@ -1,7 +1,8 @@
 # Frontend Mentor Challenges
 
 🔳 [HTML & CSS - *Newbie*](#html--css---newbie)
-  + [Single price grid](#single-price-grid-fire) 🔥
+  + [Order summary component](#order-summaray-component-fire) 🔥
+  + [Single price grid](#single-price-grid)
   + [3 column preview card](#3-column-preview-card)
   + [Recipe page](#recipe-page)
   + [Social links profile](#social-links-profile)
@@ -10,7 +11,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Single price grid :fire:
+### Order summaray component :fire:
+
+| [Repository](https://github.com/mendezpvi/fm-order-summary-component) | [Live Site](https://mendezpvi.github.io/fm-order-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-CGsPxd41X4) |
+| --- | --- | --- |
+
+![Order summary component](https://raw.githubusercontent.com/mendezpvi/fm-order-summary-component/main/assets/video/sample.gif)
+
+### Single price grid
 
 | [Repository](https://github.com/mendezpvi/fm-single-price-grid) | [Live Site](https://mendezpvi.github.io/fm-single-price-grid/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/single-price-grid-component-using-grid-LPmBtoGdE7) |
 | --- | --- | --- |
