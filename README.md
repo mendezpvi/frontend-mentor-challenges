@@ -1,7 +1,8 @@
 # Frontend Mentor Challenges
 
 🔳 [HTML & CSS - *Newbie*](#html--css---newbie)
-  + [Order summary component](#order-summaray-component-fire) 🔥
+  + [Stats preview card](#stats-preview-card-component-fire) 🔥
+  + [Order summary component](#order-summaray-component)
   + [Single price grid](#single-price-grid)
   + [3 column preview card](#3-column-preview-card)
   + [Recipe page](#recipe-page)
@@ -11,7 +12,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Order summaray component :fire:
+### Stats preview card component :fire:
+
+| [Repository](https://github.com/mendezpvi/fm-stats-preview-card) | [Live Site](https://mendezpvi.github.io/fm-stats-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-using-flex-box-CMvluLx1b4) |
+| --- | --- | --- |
+
+![Stats preview card](https://raw.githubusercontent.com/mendezpvi/fm-stats-preview-card/main/assets/video/sample.gif)
+
+### Order summaray component
 
 | [Repository](https://github.com/mendezpvi/fm-order-summary-component) | [Live Site](https://mendezpvi.github.io/fm-order-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-component-CGsPxd41X4) |
 | --- | --- | --- |
