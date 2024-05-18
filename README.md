@@ -1,7 +1,8 @@
 # Frontend Mentor Challenges
 
 🔳 [HTML & CSS - *Newbie*](#html--css---newbie)
-  + [Stats preview card](#stats-preview-card-component-fire) 🔥
+  + [Profile card component](#profile-card-component-fire) 🔥
+  + [Stats preview card](#stats-preview-card-component)
   + [Order summary component](#order-summaray-component)
   + [Single price grid](#single-price-grid)
   + [3 column preview card](#3-column-preview-card)
@@ -12,7 +13,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Stats preview card component :fire:
+### Profile card component :fire:
+
+| [Repository](https://github.com/mendezpvi/fm-profile-card-component) | [Live Site](https://mendezpvi.github.io/fm-profile-card-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-nvv0YnrwU5) |
+| --- | --- | --- |
+
+![Profile card component](https://raw.githubusercontent.com/mendezpvi/fm-profile-card-component/main/assets/video/sample.gif)
+
+### Stats preview card component
 
 | [Repository](https://github.com/mendezpvi/fm-stats-preview-card) | [Live Site](https://mendezpvi.github.io/fm-stats-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-using-flex-box-CMvluLx1b4) |
 | --- | --- | --- |
