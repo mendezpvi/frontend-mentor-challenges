@@ -1,7 +1,8 @@
 # Frontend Mentor Challenges
 
 🔳 [HTML & CSS - *Newbie*](#html--css---newbie)
-  + [Profile card component](#profile-card-component-fire) 🔥
+  + [NFT preview card](#nft-preview-card-fire) 🔥
+  + [Profile card component](#profile-card-component)
   + [Stats preview card](#stats-preview-card-component)
   + [Order summary component](#order-summaray-component)
   + [Single price grid](#single-price-grid)
@@ -13,7 +14,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Profile card component :fire:
+### NFT preview card :fire:
+
+| [Repository](https://github.com/mendezpvi/fm-nft-preview-card) | [Live Site](https://mendezpvi.github.io/fm-nft-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-Tx3F8x6SUr) |
+| --- | --- | --- |
+
+![NFT preview card](https://raw.githubusercontent.com/mendezpvi/fm-nft-preview-card/main/assets/video/sample.gif)
+
+### Profile card component
 
 | [Repository](https://github.com/mendezpvi/fm-profile-card-component) | [Live Site](https://mendezpvi.github.io/fm-profile-card-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-nvv0YnrwU5) |
 | --- | --- | --- |
