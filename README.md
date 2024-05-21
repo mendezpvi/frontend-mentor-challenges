@@ -1,20 +1,15 @@
 # Frontend Mentor Challenges
 
-🔳 [HTML & CSS - *Newbie*](#html--css---newbie)
-  + [NFT preview card](#nft-preview-card-fire) 🔥
-  + [Profile card component](#profile-card-component)
-  + [Stats preview card](#stats-preview-card-component)
-  + [Order summary component](#order-summaray-component)
-  + [Single price grid](#single-price-grid)
-  + [3 column preview card](#3-column-preview-card)
-  + [Recipe page](#recipe-page)
-  + [Social links profile](#social-links-profile)
-  + [Blog preview card](#blog-preview-card)
-  + [QR code component](#qr-code-component)
-
 ## ***HTML & CSS - Newbie***
 
-### NFT preview card :fire:
+### Product preview card 🔥
+
+| [Repository](https://github.com/mendezpvi/fm-product-preview-card) | [Live Site](https://mendezpvi.github.io/fm-product-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-using-grid-ejb5P5ux2X) |
+| --- | --- | --- |
+
+![Product preview card](https://raw.githubusercontent.com/mendezpvi/fm-product-preview-card/main/assets/video/sample.gif)
+
+### NFT preview card
 
 | [Repository](https://github.com/mendezpvi/fm-nft-preview-card) | [Live Site](https://mendezpvi.github.io/fm-nft-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-Tx3F8x6SUr) |
 | --- | --- | --- |
