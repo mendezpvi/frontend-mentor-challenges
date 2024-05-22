@@ -2,7 +2,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Product preview card 🔥
+### Four card feature section 🔥
+
+| [Repository](https://github.com/mendezpvi/fm-four-card-feature) | [Live Site](https://mendezpvi.github.io/fm-four-card-feature/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-using-grid-xTAFXxk30e) |
+| --- | --- | --- |
+
+![Four card feature](https://raw.githubusercontent.com/mendezpvi/fm-four-card-feature/main/assets/video/sample.gif)
+
+### Product preview card
 
 | [Repository](https://github.com/mendezpvi/fm-product-preview-card) | [Live Site](https://mendezpvi.github.io/fm-product-preview-card/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-using-grid-ejb5P5ux2X) |
 | --- | --- | --- |
