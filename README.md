@@ -2,7 +2,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Four card feature section 🔥
+### Social proof section 🔥
+
+| [Repository](https://github.com/mendezpvi/fm-social-proof-section) | [Live Site](https://mendezpvi.github.io/fm-social-proof-section/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-with-css-nesting-E9iWbvX0GT) |
+| --- | --- | --- |
+
+![Social proof section](https://raw.githubusercontent.com/mendezpvi/fm-social-proof-section/main/assets/video/sample.gif)
+
+### Four card feature section
 
 | [Repository](https://github.com/mendezpvi/fm-four-card-feature) | [Live Site](https://mendezpvi.github.io/fm-four-card-feature/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-using-grid-xTAFXxk30e) |
 | --- | --- | --- |
