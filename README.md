@@ -2,7 +2,14 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Social proof section 🔥
+### Huddle - Introductory section 🔥
+
+| [Repository](https://github.com/mendezpvi/fm-huddle-introductory-section) | [Live Site](https://mendezpvi.github.io/fm-huddle-introductory-section/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-introductory-section-i1seZwRf2D) |
+| --- | --- | --- |
+
+![Huddle - Introductory section](https://raw.githubusercontent.com/mendezpvi/fm-huddle-introductory-section/main/assets/video/sample.gif)
+
+### Social proof section
 
 | [Repository](https://github.com/mendezpvi/fm-social-proof-section) | [Live Site](https://mendezpvi.github.io/fm-social-proof-section/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-with-css-nesting-E9iWbvX0GT) |
 | --- | --- | --- |
