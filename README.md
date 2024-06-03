@@ -1,8 +1,17 @@
 # Frontend Mentor Challenges
 
+## ***HTML & CSS - Junior***
+
+### Testimonial grid section 🔥
+
+| [Repository](https://github.com/mendezpvi/fm-testimonials-section) | [Live Site](https://mendezpvi.github.io/fm-testimonials-section/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-A5hyAM3lT4) |
+| --- | --- | --- |
+
+![Testimonial grid section](https://raw.githubusercontent.com/mendezpvi/fm-testimonials-section/main/assets/video/sample.gif)
+
 ## ***HTML & CSS - Newbie***
 
-### Huddle - Introductory section 🔥
+### Huddle - Introductory section
 
 | [Repository](https://github.com/mendezpvi/fm-huddle-introductory-section) | [Live Site](https://mendezpvi.github.io/fm-huddle-introductory-section/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-introductory-section-i1seZwRf2D) |
 | --- | --- | --- |
