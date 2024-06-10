@@ -2,7 +2,14 @@
 
 ## ***HTML & CSS - Junior***
 
-### Testimonial grid section 🔥
+### Fylo data storage component 🔥
+
+| [Repository](https://github.com/mendezpvi/fm-fylo-data-storage) | [Live Site](https://mendezpvi.github.io/fm-fylo-data-storage/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-XkrqXdUdhW) |
+| --- | --- | --- |
+
+![Fylo data storage component](https://raw.githubusercontent.com/mendezpvi/fm-fylo-data-storage/main/assets/video/sample.gif)
+
+### Testimonial grid section
 
 | [Repository](https://github.com/mendezpvi/fm-testimonials-section) | [Live Site](https://mendezpvi.github.io/fm-testimonials-section/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-A5hyAM3lT4) |
 | --- | --- | --- |
