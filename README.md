@@ -2,7 +2,7 @@
 
 ## ***HTML & CSS - Junior***
 
-### Fylo data storage component 🔥
+### Fylo data storage component
 
 | [Repository](https://github.com/mendezpvi/fm-fylo-data-storage) | [Live Site](https://mendezpvi.github.io/fm-fylo-data-storage/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-XkrqXdUdhW) |
 | --- | --- | --- |
@@ -17,6 +17,13 @@
 ![Testimonial grid section](https://raw.githubusercontent.com/mendezpvi/fm-testimonials-section/main/assets/video/sample.gif)
 
 ## ***HTML & CSS - Newbie***
+
+### Results summary component 🔥🆕
+
+| [Repository](https://github.com/mendezpvi/fm-results-summary-component) | [Live Site](https://mendezpvi.github.io/fm-results-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component--4P_YkUVNh) |
+| --- | --- | --- |
+
+![Results summary component](https://raw.githubusercontent.com/mendezpvi/fm-results-summary-component/main/assets/video/sample.gif)
 
 ### Huddle - Introductory section
 
