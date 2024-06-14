@@ -1,5 +1,15 @@
 # Frontend Mentor Challenges
 
+## ***HTML & CSS & JS - Newbie***
+
+### Article preview component 🔥🆕🔥
+
+| [Repository](https://github.com/mendezpvi/fm-article-preview-component) | [Live Site](https://mendezpvi.github.io/fm-article-preview-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-bpYp1DoWF3) |
+| --- | --- | --- |
+
+![Article preview component](https://raw.githubusercontent.com/mendezpvi/fm-article-preview-component/main/assets/video/sample.gif)
+
+
 ## ***HTML & CSS - Junior***
 
 ### Fylo data storage component
@@ -18,7 +28,7 @@
 
 ## ***HTML & CSS - Newbie***
 
-### Results summary component 🔥🆕
+### Results summary component
 
 | [Repository](https://github.com/mendezpvi/fm-results-summary-component) | [Live Site](https://mendezpvi.github.io/fm-results-summary-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component--4P_YkUVNh) |
 | --- | --- | --- |
