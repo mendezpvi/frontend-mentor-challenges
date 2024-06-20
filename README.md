@@ -2,7 +2,14 @@
 
 ## ***HTML & CSS & JS - Newbie***
 
-### Article preview component 🔥🆕🔥
+### Interactive rating component 🔥🆕🔥
+
+| [Repository](https://github.com/mendezpvi/fm-interactive-rating) | [Live Site](https://mendezpvi.github.io/fm-interactive-rating/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-Nmp9im1c0f) |
+| --- | --- | --- |
+
+![Interactive rating component](https://raw.githubusercontent.com/mendezpvi/fm-interactive-rating/main/assets/video/sample.gif)
+
+### Article preview component
 
 | [Repository](https://github.com/mendezpvi/fm-article-preview-component) | [Live Site](https://mendezpvi.github.io/fm-article-preview-component/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-bpYp1DoWF3) |
 | --- | --- | --- |
