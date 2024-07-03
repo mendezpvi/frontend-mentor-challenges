@@ -2,6 +2,13 @@
 
 ## ***HTML & CSS & JS - Newbie***
 
+### Base Apparel coming soon page 🔥🆕🔥
+
+| [Repository](https://github.com/mendezpvi/fem-comming-soon-page) | [Live Site](https://mendezpvi.github.io/fem-comming-soon-page/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-KaXwsB5c9n) |
+| --- | --- | --- |
+
+![Base Apparel coming soon page](https://raw.githubusercontent.com/mendezpvi/fem-comming-soon-page/main/assets/video/sample.gif)
+
 ### Interactive rating component
 
 | [Repository](https://github.com/mendezpvi/fm-interactive-rating) | [Live Site](https://mendezpvi.github.io/fm-interactive-rating/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-Nmp9im1c0f) |
@@ -19,7 +26,7 @@
 
 ## ***HTML & CSS - Junior***
 
-### Huddle landing with blocks 🔥🆕🔥
+### Huddle landing with blocks
 
 | [Repository](https://github.com/mendezpvi/fm-huddle-with-blocks) | [Live Site](https://mendezpvi.github.io/fm-huddle-with-blocks/) | [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-AZJks-N78d) |
 | --- | --- | --- |
